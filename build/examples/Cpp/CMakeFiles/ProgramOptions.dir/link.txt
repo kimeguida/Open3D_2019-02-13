@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11 -fPIC -fopenmp -O2 -DNDEBUG    -rdynamic CMakeFiles/ProgramOptions.dir/ProgramOptions.cpp.o  -o ../../bin/examples/ProgramOptions ../../lib/libOpen3D.a -lGL -lGLU -lGLEW -lGLU -lGL -lGL -lGLU -lGLEW -lGLU -lGL ../../lib/libglfw3.a -lrt -ldl -lX11 -ljpeg ../../lib/libjsoncpp.a ../../lib/libpng.a -lm ../../lib/libzlib.a ../../lib/libtinyfiledialogs.a 

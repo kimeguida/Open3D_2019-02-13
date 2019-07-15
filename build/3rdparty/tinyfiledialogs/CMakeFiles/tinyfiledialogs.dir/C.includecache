@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/meguida/Documents/2019/open3d20190213_V1/3rdparty/tinyfiledialogs/tinyfiledialogs.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+ctype.h
+-
+sys/stat.h
+-
+tinyfiledialogs.h
+/home/meguida/Documents/2019/open3d20190213_V1/3rdparty/tinyfiledialogs/tinyfiledialogs.h
+Windows.h
+-
+Shlobj.h
+-
+conio.h
+-
+limits.h
+-
+unistd.h
+-
+dirent.h
+-
+termios.h
+-
+sys/utsname.h
+-
+
+/home/meguida/Documents/2019/open3d20190213_V1/3rdparty/tinyfiledialogs/tinyfiledialogs.h
+

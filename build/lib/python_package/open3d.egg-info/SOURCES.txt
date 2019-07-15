@@ -1,0 +1,16 @@
+LICENSE.txt
+MANIFEST.in
+README.rst
+enable_jupyter_extension.json
+requirements.txt
+setup.cfg
+setup.py
+open3d/__init__.py
+open3d/j_visualizer.py
+open3d/open3d.cpython-37m-x86_64-linux-gnu.so
+open3d.egg-info/PKG-INFO
+open3d.egg-info/SOURCES.txt
+open3d.egg-info/dependency_links.txt
+open3d.egg-info/not-zip-safe
+open3d.egg-info/requires.txt
+open3d.egg-info/top_level.txt

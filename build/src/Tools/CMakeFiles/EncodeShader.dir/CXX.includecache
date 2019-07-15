@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/meguida/Documents/2019/open3d20190213_V1/src/Tools/EncodeShader.cpp
+cstdio
+-
+cstdlib
+-
+string
+-
+
